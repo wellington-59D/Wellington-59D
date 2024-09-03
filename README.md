@@ -1,15 +1,15 @@
 #### SEJAM BEM VINDO AO MEU PERFIL 🇧🇷
-<!--
-**wellington-59D/Wellington-59D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Wellington Felipe Lasta
 
-Here are some ideas to get you started:
+tenho 16 anos e moro em Braganey PR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  estou estudando na [Alura ](https://ww.alura.co.br)
+
+Estou desenvolvendo na linguagem JavaScript
+
+utilizo esse espaço par minha organização e para compartilhar meu progetos desenvolvidos 
+-### você entrara em contato comigo 
+
+wellington.lasta@escola.pr.gov.br
+
+![]()![image](https://github.com/user-attachments/assets/86b9b859-bdc7-4c91-b9a9-02d53a6f4e2b)
